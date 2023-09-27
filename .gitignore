@@ -10,7 +10,8 @@
             <h2>Reforma de piscinas em geral</h2>
             <h2>Construção de ambientes diferenciados</h2>
 
-            <p>Realizamos toda a construção da alvenaria e acabamento com perfeição</p>
+            <!-- cliente enfatiza -->
+            <!-- <p>Realizamos toda a construção da alvenaria e acabamento com perfeição</p> -->
             <p>Realizamos toda a <strong>construção</strong> da alvenaria e <strong>acabamento</strong> com perfeição</p>
             <p>Sua piscina de <em>Vinil</em> ou de <em>alvenaria</em> sem complicação</p>
             <p>Sua piscina de <span style="color:blue">vinil</span> ou de <span style="color:blue">alvenaria</span></p>
@@ -18,6 +19,19 @@
             <a target="_blank" href="https://instagram.com/construtorisrael?igshid=OGQ5ZDc2ODk2ZA=="> @construtorisrael</a>
 
             <img src="https://mwapiscinas.com.br/whap/wp-content/uploads/fly-images/2556/piscina-alvenaria-site-2-1-720x480-c.jpg" alt="Piscina em alvenaria e borda infinita">
+
+            <ol>
+                <li>Projeto na Planta</li>
+                <li>Mão de Obra</li>
+                <li>Material</li>
+                <li>Orçamento</li>
+            </ol>
+
+            <ul>
+                <ul>Telefone</ul>
+                <ul>E-mail</ul>
+                <ul>Site</ul>
+            <ul>
 
         </body>
 
